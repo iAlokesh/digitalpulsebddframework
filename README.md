@@ -2,9 +2,21 @@
 
 # README
 
+This is a behavior-driven development (BDD) framework built using Cucumber, Selenium, Java, Maven, and JUnit. The framework allows for easy creation and execution of automated tests for web applications.
+
 ## Getting started
 
-This is a behavior-driven development (BDD) framework built using Cucumber, Selenium, Java, Maven, and JUnit. The framework allows for easy creation and execution of automated tests for web applications.
+<b>Clone the repository:</b>
+git clone https://github.com/iAlokesh/digitalpulsebddframework.git
+
+<b>Navigate to the project directory:</b>
+cd digitalpulsebddframework
+
+<b>Compile and build the project:</b>
+mvn clean install
+
+<b>Run the tests:</b>
+mvn test
 
 # Prerequisites
 
